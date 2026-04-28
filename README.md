@@ -76,8 +76,4 @@ ICFAI University Jaipur
 - AI gesture recognition upgrade
 - Mobile optimization
 
----
 
-## 💡 Live Demo
-
-(You can host this using GitHub Pages)
